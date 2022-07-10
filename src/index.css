@@ -1,13 +1,34 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* font-family: 'Abril Fatface', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'Overpass Mono', monospace; */
+.App {
+  height: 100vh;
+  margin: 50px 150px 100px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+nav {
+  font-family: "Merriweather", serif;
+  font-weight: 300;
+  font-size: 0.75rem;
+}
+h1 {
+  font-family: "Abril Fatface", cursive;
+}
+
+.subline {
+  font-family: "Merriweather", serif;
+  font-weight: 100;
+  width: 15rem;
+}
+
+.explore {
+  font-family: "Merriweather", serif;
+}
+
+li {
+  padding-bottom: 1rem;
 }
