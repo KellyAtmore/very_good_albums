@@ -1,0 +1,15 @@
+INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  song_quote,
+  band_history)
+  VALUES ('The Velvet Underground and Nico', 'The Velvet Underground and Nico', 1967, 'Psychedelic rock', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FVelvet_Underground_and_Nico.jpeg?alt=media&token=0c1a13b2-1e54-4c77-8c29-c790ebe60efe', 'Though it sold poorly on its initial release, this has since become arguably the most influential rock album of all time. The first art-rock album, it merges dreamy, druggy balladry with raw and uncompromising sonic experimentation, and is famously clothed in that Andy Warhol-designed banana sleeve. Lou Reeds lyrics depicted a Warholian New York demi-monde where hard drugs and sexual experimentation held sway. Shocking then, and still utterly transfixing.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fvelvet_1.webp?alt=media&token=43da8b38-579b-4dd0-86ca-ac31cb094090', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fvelvet_2.jpeg?alt=media&token=0372c18d-27ed-490b-adf2-89f7a482e3db', 'The Velvet Underground were largely ignored during heir original run from the mid-''60s into the early ''70s, but few bands would cast as long a shadow in terms of innovation and influence. Playing music that was boldly uncompromising both sonically and lyrically, the Velvet Underground infused rock & roll with the daring of the avant-garde and the poetic realism of post-beat literature. Too far ahead of their time for pop music''s mainstream, the VU made a profound impression on thoughtful listeners, many of whom would go on to make groundbreaking music of their own, and they would belatedly be acknowledged as one of rock''s most important groups. Their four studio albums -- 1967''s The Velvet Underground & Nico, 1968''s White Light/White Heat, 1969''s The Velvet Underground, and 1970''s Loaded -- are all essential documents, and 2015''s The Complete Matrix Tapes is superb evidence of their power as a live act.', 'Sunday morning, brings the dawn in It''s just a restless feeling by my side Early dawning, Sunday morning It''s just the wasted years so close behind', 'The Velvet Underground was an American rock band formed in New York City in 1964. The original line-up consisted of singer/guitarist Lou Reed, multi-instrumentalist John Cale, guitarist Sterling Morrison, and drummer Angus MacLise. MacLise was replaced by Moe Tucker in 1965, who played on most of the band''s recordings. Their integration of rock and the avant-garde achieved little commercial success during the group''s existence, but they are now recognized as one of the most influential bands in rock, underground, experimental, and alternative music. The group''s provocative subject matter, musical experiments, and often nihilistic attitudes also proved influential in the development of punk rock and new wave music.'
+    
+    );
