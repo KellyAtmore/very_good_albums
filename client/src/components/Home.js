@@ -1,6 +1,15 @@
 import React from "react";
+import axios from "axios";
+import { useEffect } from "react";
 
 const Home = () => {
+  useEffect(() => {
+    axios.get("http://localhost:3003/").then((res) => {
+      const data = res.data;
+      //console.log(data[0].album_name);
+    });
+  }, []);
+
   return (
     <>
       <div className="pt-40">
