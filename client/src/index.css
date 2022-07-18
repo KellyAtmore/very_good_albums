@@ -5,7 +5,8 @@
 /* font-family: 'Abril Fatface', cursive;
 font-family: 'Merriweather', serif;
 font-family: 'Overpass Mono', monospace; */
-.App {
+.App,
+.Albums_List {
   height: 100vh;
   margin: 50px 150px 100px;
 }
@@ -31,4 +32,8 @@ h1 {
 
 li {
   padding-bottom: 1rem;
+}
+
+.album_list_details {
+  font-family: "Overpass Mono", monospace;
 }
