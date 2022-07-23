@@ -11,6 +11,8 @@ CREATE TABLE album(
   image_1 TEXT,
   image_2 TEXT,
   band_about TEXT,
+  playlist_url TEXT,
+  video_url TEXT,
   song_quote VARCHAR(255),
   band_history TEXT
 );

@@ -14,7 +14,6 @@ app.use(express.json());
 app.get("/", async (req, res) => {
   try {
     const albums = await pool.query("SELECT * FROM album;");
-    //console.log("query", albums.rows);
 
     return res.json(albums);
   } catch (err) {
@@ -22,23 +21,30 @@ app.get("/", async (req, res) => {
   }
 });
 
+app.get("/albums", async (req, res) => {
+  try {
+    const albums = await pool.query("SELECT * FROM album;");
+
+    return res.json(albums.rows);
+  } catch (err) {
+    console.error(err.message);
+  }
+});
+
 //GET ONE ALBUM
-// app.get("/:albumid", async (req, res) => {
-//   try {
-//     const album = await pool.query(
-//       `SELECT * FROM album WHERE album_id = ${albumid}`
-//     );
-//     const albumid = req.params.album_id;
+app.get("/albums/:id", async (req, res) => {
+  try {
+    const { id } = req.params;
+    const album = await pool.query(
+      `SELECT * FROM album WHERE album_id = ${id};`
+    );
 
-//     console.log("THIS IS PARAMS", req.params);
+    return res.json(album);
+  } catch (err) {
+    console.error(err.message);
+  }
+});
 
-//     console.log("this is album id", album.rows);
-//     return res.json(album.rows);
-//   } catch (err) {
-//     console.error(err.message);
-//   }
-// });
-
-app.listen(3003, () => {
-  console.log("server listening on port 3003 🥳");
+app.listen(3005, () => {
+  console.log("server listening on port 3005 🥳");
 });

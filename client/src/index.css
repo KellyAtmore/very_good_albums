@@ -6,7 +6,8 @@
 font-family: 'Merriweather', serif;
 font-family: 'Overpass Mono', monospace; */
 .App,
-.Albums_List {
+.Albums_List,
+.Album_Page {
   height: 100vh;
   margin: 50px 150px 100px;
 }
@@ -36,4 +37,39 @@ li {
 
 .album_list_details {
   font-family: "Overpass Mono", monospace;
+}
+
+.album_title {
+  font-family: "Overpass Mono", monospace;
+  font-weight: 800;
+}
+
+.album_details {
+  font-family: "Overpass Mono", monospace;
+}
+
+.video {
+  width: 560px;
+  height: 315px;
+}
+.playlist {
+  width: 30%;
+  height: 380px;
+}
+
+.details {
+  font-family: "Overpass Mono", monospace;
+  font-weight: 100;
+  width: 50%;
+}
+
+.cover_image {
+  width: 250px;
+  height: 250px;
+}
+
+.img_1 {
+  height: 400px;
+  width: auto;
+  margin-left: -150px;
 }
