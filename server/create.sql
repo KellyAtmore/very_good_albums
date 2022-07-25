@@ -61,4 +61,31 @@ The band''s work has influenced a diverse range of artists and many genres of mo
     
     );
 
+     INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('Straight Outta Compton', 'NWA', 1989, 'Hip hop', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FStraightOuttaComptonN.W.A..jpg?alt=media&token=359f379d-3a0c-429e-b7ef-97495f458f5c', 'Like a darker, more vengeful Public Enemy, NWA (Niggaz With Attitude) exposed the vicious realities of the West Coast gang culture on their lurid, fluent debut. Part aural reportage (sirens, gunshots, police radio), part thuggish swagger, Compton laid the blueprint for the most successful musical genre of the last 20 years, gangsta rap. It gave the world a new production mogul in Dr Dre, and gave voice to the frustrations that flared up into the LA riots in 1992. As befits an album boasting a song called ''Fuck tha Police'', attention from the FBI, the Parents'' Music Resource Centre and our own Metropolitan Police''s Obscene Publications Squad sealed its notoriety.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fnwa_1.jpeg?alt=media&token=093096b7-b477-4ad9-b72d-66f9c9c4e6ea', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fnwa_2.jpeg?alt=media&token=046f9d5d-1559-4a03-8de3-ba15d9b66b9f', 'N.W.A, the unapologetically violent and sexist pioneers of gangsta rap, are in many ways the most notorious group in the history of rap. Emerging in the late ''80s, when Public Enemy had rewritten the rules of hardcore rap by proving that it could be intelligent, revolutionary, and socially aware, N.W.A capitalized on PE''s sonic breakthroughs while ignoring their message. Instead, the five-piece crew celebrated the violence and hedonism of the criminal life, capturing it all in blunt, harsh language. Initially, the group''s relentless attack appeared to be serious, vital commentary, and it even provoked the FBI to caution N.W.A''s record company, but following Ice Cube''s departure in late 1989, the group began to turn to self-parody. With his high-pitched whine, Eazy E''s urban nightmares now seemed like comic book fantasies, but ones that fulfilled the fantasies of the teenage white suburbanites who had become their core audience, and the group became more popular than ever. Nevertheless, clashing egos prevented the band from recording a third album, and they fell apart once producer Dr. Dre  left for a solo career in 1992. Although N.W.A were no longer active, their influence -- from their funky, bass-driven beats to their exaggerated lyrics -- was evident throughout the ''90s, while their story was told in the critically acclaimed 2015 film Straight Outta Compton.', '0Y7qkJVZ06tS2GUCDptzyW?utm_source=generator', 'TMZi25Pq3T8', 'Fuck the police comin'' straight from the underground
+A Young nigga got it bad ''cause I''m brown
+And not the other color so police think
+They have the authority to kill a minority', 'N.W.A (an abbreviation for Niggaz Wit Attitudes) was an American hip hop group whose members were among the earliest and most significant popularizers and controversial figures of the gangsta rap subgenre, and the group is widely considered one of the greatest and most influential groups in the history of hip hop music.
+
+Active from 1987 to 1991, the rap group endured controversy owing to its music''s explicit lyrics, which many viewed as being misogynistic, as well as to its glorification of drugs and crime. The group was subsequently banned from many mainstream American radio stations. In spite of this, the group has sold over 10 million units in the United States alone. Drawing on its members'' own experiences of racism and excessive policing, the group made inherently political music. The group''s members were known for their deep hatred of the police system, which has sparked much controversy over the years.
+
+The original lineup, formed in early 1987, consisted of Arabian Prince, Dr. Dre, Eazy-E, and Ice Cube, with DJ Yella and MC Ren joining later that year. They released their first compilation album as a group in 1987 called N.W.A. and the Posse, which peaked at No. 39 on Billboard magazine''s Top R&B/Hip-Hop Albums chart. Arabian Prince left shortly after the release of N.W.A''s debut studio album, Straight Outta Compton, in 1988, with Ice Cube following suit in December 1989. Eazy-E, Ice Cube, MC Ren and Dr. Dre later became platinum-selling solo artists in their own right in the 1990s. The group''s debut album marked the beginning of the new gangsta rap era as the production and social commentary in their lyrics were revolutionary within the genre. N.W.A''s second studio album, Niggaz4Life, was the first hardcore rap album to reach number one on the Billboard 200 sales charts.
+
+Rolling Stone ranked N.W.A at number 83 on its list of the "100 Greatest Artists of All Time". In 2016, the group was inducted into the Rock and Roll Hall of Fame, following three previous nominations.'
     
+    );
+
+ 

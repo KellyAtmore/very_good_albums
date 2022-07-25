@@ -6,7 +6,7 @@ const ListItem = (props) => {
     <>
       <div>
         <Link to={`/albums/${props.albums.album_id}`}>
-          <div className="h-24 p-4 mb-10 bg-seabreeze w-100% rounded-lg flex items-center justify-between">
+          <div className="h-24 p-4 mb-4 bg-seabreeze w-100% rounded-lg flex items-center justify-between">
             <img
               className="w-[80px] h-[80px] rounded-lg"
               src={props.albums.album_cover}
