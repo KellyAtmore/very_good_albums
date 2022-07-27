@@ -88,4 +88,56 @@ Rolling Stone ranked N.W.A at number 83 on its list of the "100 Greatest Artists
     
     );
 
- 
+        INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('King of the Delta Blues Singers', 'Robert Johnson', 1961, 'Delta blues', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2Frobert_johnson.jpg?alt=media&token=c2e1edd0-4f83-4ecb-8b32-5ea850548b0f', 'Described by Eric Clapton as ''the most important blues singer that ever lived'', Johnson was an intensely private man, whose short life and mysterious death created an enduring mythology. He was said to have sold his soul to the devil at a crossroads in Mississippi in exchange for his finger-picking prowess. Johnson recorded a mere 29 songs, chief among them ''Hellhound on My Trail'', but when it was finally issued, King of the Delta Blues Singers became one of the touchstones of the British blues scene.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fjohnson1.webp?alt=media&token=15bc70f7-5c52-4b5c-9c21-314b0fbb61c4', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fjohnson2.jpeg?alt=media&token=f3e706e0-2f9c-425e-9ca6-dee895a8a841', 'If the blues has a truly mythic figure, one whose story hangs over the music the way Charlie Parker''s does over jazz or Hank Williams'' does over country, it''s Robert Johnson, certainly the most celebrated figure in the history of the blues. Of course, his legend is immensely fortified by the fact that Johnson also left behind a small legacy of recordings that are considered the emotional apex of the music itself. These recordings have not only entered the realm of blues standards ("Love in Vain," "Crossroads," "Sweet Home Chicago," "Stop Breaking Down"), but were adapted by rock & roll artists as diverse as the Rollins Stones, Steve Miller, Led Zepellin , and Eric Clapton. As a singer, composer, and guitarist of considerable skills, Johnson produced some of the genre''s best music and the ultimate blues legend. Doomed, haunted, driven by demons, a tormented genius dead at an early age -- all of these add up to making him a character of mythology who -- if he hadn''t actually existed -- would have to be created by some biographer''s overactive romantic imagination.', '2IWaNq5o4tG1w6yxve5BMU?utm_source=generator', '3MCHI23FTP8', 'I went down to the crossroads
+Fell down on my knees
+Down to the crossroads
+Fell down on my knees', 'Robert Leroy Johnson (May 8, 1911 – August 16, 1938) was an American blues musician and songwriter. His landmark recordings in 1936 and 1937 display a combination of singing, guitar skills, and songwriting talent that has influenced later generations of musicians. He is now recognized as a master of the blues, particularly the Delta blues style.
+
+As a traveling performer who played mostly on street corners, in juke joints, and at Saturday night dances, Johnson had little commercial success or public recognition in his lifetime. He participated in only two recording sessions, one in San Antonio in 1936, and one in Dallas in 1937, that produced 29 distinct songs (with 13 surviving alternate takes) recorded by famed Country Music Hall of Fame producer Don Law. These songs, recorded solo in improvised studios, were the totality of his recorded output. Most were released as 10-inch, 78 rpm singles from 1937–1938, with a few released after his death. Other than these recordings, very little was known of him during his life outside of the small musical circuit in the Mississippi Delta where he spent most of his life; much of his story has been reconstructed after his death by researchers. Johnson''s poorly documented life and death have given rise to much legend. The one most closely associated with his life is that he sold his soul to the devil at a local crossroads to achieve musical success.
+
+His music had a small, but influential, following during his life and in the two decades after his death. In late 1938 John Hammond sought him out for a concert at Carnegie Hall, From Spirituals to Swing, only to discover that Johnson had died. Brunswick Records, which owned the original recordings, was bought by Columbia Records, where Hammond was employed. Musicologist Alan Lomax went to Mississippi in 1941 to record Johnson, also not knowing of his death. Law, who by then worked for Columbia Records, assembled a collection of Johnson''s recordings titled King of the Delta Blues Singers that was released by Columbia in 1961. It is widely credited with finally bringing Johnson''s work to a wider audience. The album would become influential, especially on the nascent British blues movement; Eric Clapton has called Johnson "the most important blues singer that ever lived." Musicians such as Bob Dylan, Keith Richards, and Robert Plant have cited both Johnson''s lyrics and musicianship as key influences on their own work. Many of Johnson''s songs have been covered over the years, becoming hits for other artists, and his guitar licks and lyrics have been borrowed by many later musicians.'
+    
+    );
+
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('What''s Going On', 'Marvin Gaye', 1971, 'Soul', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FMarvinGayeWhat''sGoingOnalbumcover.jpeg?alt=media&token=d0b0e40d-4cae-4c15-bd4b-d72a9a639cbc', 'Gaye''s career as tuxedo-clad heart-throb gave no hint he would cut a concept album dealing with civil rights, the Vietnam war and ghetto life. Equally startling was the music, softening and double-tracking Gaye''s falsetto against a wash of bubbling percussion, swaying strings and chattering guitars. Motown boss Berry Gordy hated it but its disillusioned nobility caught the public mood. Led by the oft-covered ''Inner City Blues'', it ushered in an era of socially aware soul.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fmarvin1.jpeg?alt=media&token=4ce98861-f087-40c8-8b61-3c18caee9df5', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fmarvin2.jpeg?alt=media&token=3c3a775e-c0c5-4308-8a90-9c343c8d6577', 'Few figures in American music in the 20th century can compare to Marvin Gaye. As a singer, he was without peer, possessing a silky voice that could sound either angelic or seductive or, on his biggest hit "I Heard It Through the Grapevine," positively haunted. As a songwriter, he was equally skilled at writing with an eye for the charts and mining the depths of his heart, a combination that created many of the enduring classics of his era: "Hitch Hike," "Dancing in the Street," "Pride and Joy," "What''s Going On," "Let''s Get It On," "Got to Give It Up," and "Sexual Healing." That list also shows how the entire history of postwar R&B can be seen through the career of Marvin Gaye. He harnessed gospel and cabaret to create the exuberant uptown sound of Motown in the early ''60s, but he changed with his turbulent times, pushing pop-R&B into the realms of soul by the end of the decade. As the 1970s dawned, Gaye grappled with social protest on What''s Going On, the 1971 album that found the singer/songwriter charting his own idiosyncratic course. From that point, Gaye delved into funk, blaxploitation, and disco, eventually settling into the smooth environs of quiet storm. Throughout this period, Gaye battled personal demons, often creating powerful art through his struggles, but they caught up with him tragically in 1984, when he was murdered by his father. Gaye''s legacy resonated over the decades -- he was a touchstone for soul and pop music that was either sensual or political -- but his early death leaves hanging the question of what he could''ve achieved if he were alive. During his two decades as a recording artist, he already accomplished more than most artists do in a lifetime.', '2v6ANhWhZBUKkg6pJJBs3B?utm_source=generator', '57Ykv1D0qEE', 'Rockets, moon shots
+Spend it on the have-not''s
+Money, we make it
+Before we see it, you take it', 'Marvin Pentz Gay Jr. (known professionally as Marvin Gaye; April 2, 1939 – April 1, 1984) was an American singer and songwriter. He helped to shape the sound of Motown in the 1960s, first as an in-house session player and later as a solo artist with a string of successes, earning him the nicknames "Prince of Motown" and "Prince of Soul".
+
+Gaye''s Motown songs include "Ain''t That Peculiar", "How Sweet It Is (To Be Loved By You)", and "I Heard It Through the Grapevine". Gaye also recorded duets with Mary Wells, Kim Weston, Tammi Terrell, and Diana Ross. During the 1970s, Gaye recorded the albums What''s Going On and Let''s Get It On and became one of the first artists in Motown to break away from the reins of a production company.
+
+His later recordings influenced several contemporary R&B subgenres, such as quiet storm and neo soul. "Sexual Healing", released in 1982 on the album Midnight Love, won him his first two Grammy Awards. Gaye''s last televised appearances were at the 1983 NBA All-Star Game, where he sang "The Star-Spangled Banner"; Motown 25: Yesterday, Today, Forever; and Soul Train.
+
+On April 1, 1984, the eve of his 45th birthday, Gaye was shot and mortally wounded by his father, Marvin Gay Sr., at their house in Hancock Park, Los Angeles, after an argument. Gay Sr. later pleaded no contest to voluntary manslaughter, and received a six-year suspended sentence and five years of probation. Many institutions have posthumously bestowed Gaye with awards and other honors including the Grammy Lifetime Achievement Award, and inductions into the Rhythm and Blues Music Hall of Fame, the Songwriters Hall of Fame, and the Rock and Roll Hall of Fame.'
+    
+    );
+
+
