@@ -140,4 +140,56 @@ On April 1, 1984, the eve of his 45th birthday, Gaye was shot and mortally wound
     
     );
 
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('Horses', 'Patti Smith', 1975, 'Punk Rock', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FPattiSmithHorses.jpeg?alt=media&token=e6d35d1e-80b7-4bc1-ac64-746ff9765166', 'Who would have thought punk rock was, in part, kickstarted by a girl? Poet, misfit and New York ligger, Patti channelled the spirits of Keith Richards, Bob Dylan and Rimbaud into female form, and onto an album whose febrile energy and Dionysian spirit helped light the touchpaper for New York punk. The Robert Mapplethorpe-shot cover, in which a hungry, mannish Patti stares down the viewer, defiantly broke with the music industry''s treatment of women artists (sexy or girl-next-door) and still startles today.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fpatti1.webp?alt=media&token=06e9a4a1-388c-40e8-8207-0b5850f71268', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fpatti2.jpeg?alt=media&token=92bad611-d06e-4403-9e0e-ba8b759872d0', 'Punk rock''s poet laureate Patti Smith ranks among the most ambitious, unconventional, and challenging rock & rollers of all time. When she emerged in the ''70s, Smith''s music was hailed as the most exciting fusion of rock and poetry since Bob Dylan''s heyday. With her androgynous, visual presentation echoing her unabashedly intellectual and uncompromising songwriting, Smith followed her muse wherever it took her, from structured rock songs to free-form experimentalism. Her most avant-garde outings, such as 1975''s Horses and the following year''s Radio Ethiopia, borrowed improvisation and interplay from free jazz, but remained firmly rooted in primal three-chord rock & roll. A regular at CBGB''s during New York punk''s early days, the artiness and the raw musicianship of her work had a major impact on the movement among contemporaries and followers alike. As boundary-pushing as her music could be, Smith nevertheless scored a hit in the Bruce Springsteen collaboration "Because the Night" from 1978''s Easter, which, like 1979''s Wave, offered a slightly more polished version of her sound. When she returned to music following a lengthy hiatus and the death of her husband, Fred "Sonic" Smith, her work was sometimes subtler and more meditative, as on 1996''s Gone Again, but rock was still a fiery, vital part of albums like 2000''s Grammy-nominated Gung Ho and 2012''s Banga. Her other projects in the 2010s and 2020s, such as her National Book Award-winning memoir Just Kids and her work with Soundwalk Collective on albums like 2020''s Peradam, proved her expression was as boundless as ever.', '7xg7u99lilTCPbaRfnYuy6?utm_source=generator', 's5FrS5aQc50', 'Jesus died for somebody''s sins but not mine
+Meltin'' in a pot of thieves
+Wild card up my sleeve
+Thick heart of stone
+My sins my own
+They belong to me, me', 'Patricia Lee Smith (born December 30, 1946) is an American singer, songwriter, poet, painter and author who became an influential component of the New York City punk rock movement with her 1975 debut album Horses.
+
+Called the "punk poet laureate", Smith fused rock and poetry in her work. Her most widely known song is "Because the Night", which was co-written with Bruce Springsteen. It reached number 13 on the Billboard Hot 100 chart in 1978 and number five in the U.K. In 2005, Smith was named a Commander of the Ordre des Arts et des Lettres by the French Ministry of Culture. In 2007, she was inducted into the Rock and Roll Hall of Fame.
+
+On November 17, 2010, Smith won the National Book Award for her memoir Just Kids. The book fulfilled a promise she had made to her former long-time partner, Robert Mapplethorpe. She placed 47th in Rolling Stone magazine''s list of 100 Greatest Artists published in December 2010 and was also a recipient of the 2011 Polar Music Prize.'
+    
+    );
+
+     INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('Bringing it All Back Home', 'Bob Dylan', 1965, 'Folk Rock', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FBob_Dylan_-_Bringing_It_All_Back_Home.jpeg?alt=media&token=54b73975-f7b0-4e64-bee8-c99b0596d50c', 'The first folk-rock album? Maybe. Certainly the first augury of what was to come with the momentous ''Like a Rolling Stone''. Released in one of pop''s pivotal years, Bringing it All Back Home fused hallucinatory lyricism and, on half of its tracks, a raw, ragged rock''n''roll thrust. On the opening song, ''Subterranean Homesick Blues'', Dylan manages to pay homage to the Beats and Chuck Berry, while anticipating the surreal wordplay of rap.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fbob1.webp?alt=media&token=6f0b358b-37f9-4ef6-9f98-dfce650d1f85', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fbob2.webp?alt=media&token=8092cacf-c52d-4673-a36c-9306edbb29ad', 'Bob Dylan''s influence on popular music is incalculable. As a songwriter, he pioneered several different schools of pop songwriting, from confessional singer/songwriter to winding, hallucinatory, stream-of-consciousness narratives. As a vocalist, he broke down the notion that a singer must have a conventionally good voice in order to perform, thereby redefining the vocalist''s role in popular music. As a musician, he sparked several genres of pop music, including electrified folk-rock and country-rock. And that''s just the tip of his achievements. Dylan''s force was evident enough during his height of popularity in the 1960s -- the Beatles'' shift toward introspective songwriting in the mid-''60s never would have happened without him -- but his influence echoed throughout several subsequent generations, as many of his songs became popular standards and his best albums became undisputed classics of the rock & roll canon. Dylan''s influence on folk music was equally powerful, and he marks a pivotal turning point in its 20th century evolution, signifying when the genre moved away from traditional songs and toward personal songwriting. Even when his sales declined in the ''80s and ''90s, Dylan''s presence rarely lagged, and his commercial revival in the 2000s proved his staying power.', '1lPoRKSgZHQAYXxzBsOQ7v?utm_source=generator', 'MGxjIBEZvx0', 'Johnny''s in the basement, mixin'' up the medicine
+I''m on the pavement, thinkin'' about the government
+The man in a trench coat, badge out, laid off
+Says he''s got a bad cough, wants to get it paid off', 'Robert Dylan (born Robert Allen Zimmerman; May 24, 1941) is an American singer-songwriter. Often regarded as one of the greatest songwriters of all time, Dylan has been a major figure in popular culture during a career spanning more than 60 years. Much of his most celebrated work dates from the 1960s, when songs such as "Blowin'' in the Wind" (1963) and ''The Times They Are a-Changin'' (1964) became anthems for the civil rights and antiwar movements. His lyrics during this period incorporated a range of political, social, philosophical, and literary influences, defying pop music conventions and appealing to the burgeoning counterculture.
+
+Following his self-titled debut album in 1962, which comprised mainly traditional folk songs, Dylan made his breakthrough as a songwriter with the release of The Freewheelin'' Bob Dylan the following year. The album features ''Blowin'' in the Wind'' and the thematically complex "A Hard Rain''s a-Gonna Fall". Many of his songs adapted the tunes and phraseology of older folk songs. He went on to release the politically charged The Times They Are a-Changin'' and the more lyrically abstract and introspective Another Side of Bob Dylan in 1964. In 1965 and 1966, Dylan drew controversy among folk purists when he adopted electrically amplified rock instrumentation, and in the space of 15 months recorded three of the most important and influential rock albums of the 1960s: Bringing It All Back Home, Highway 61 Revisited (both 1965) and Blonde on Blonde (1966). His six-minute single "Like a Rolling Stone" (1965) expanded commercial and creative boundaries in popular music.
+
+In July 1966, a motorcycle accident led to Dylan''s withdrawal from touring. During this period, he recorded a large body of songs with members of the Band, who had previously backed him on tour. These recordings were released as the collaborative album The Basement Tapes in 1975. In the late 1960s and early 1970s, Dylan explored country music and rural themes in John Wesley Harding (1967), Nashville Skyline (1969), and New Morning (1970). In 1975, he released Blood on the Tracks, which many saw as a return to form. In the late 1970s, he became a born-again Christian and released a series of albums of contemporary gospel music before returning to his more familiar rock-based idiom in the early 1980s. Dylan''s 1997 album Time Out of Mind marked the beginning of a renaissance for his career. He has released five critically acclaimed albums of original material since then, the most recent being Rough and Rowdy Ways (2020). He also recorded a series of three albums in the 2010s comprising versions of traditional American standards, especially songs recorded by Frank Sinatra. Dylan has toured continuously since the late 1980s on what has become known as the Never Ending Tour.'
+    
+    );
+
 
