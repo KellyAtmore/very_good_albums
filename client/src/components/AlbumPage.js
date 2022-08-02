@@ -53,6 +53,7 @@ const AlbumPage = () => {
         src={`https://open.spotify.com/embed/album/${album.playlist_url}utm_source=generator`}
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       ></iframe>
+      {album.band_history}
     </div>
   );
 };
