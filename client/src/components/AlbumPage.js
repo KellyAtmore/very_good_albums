@@ -59,7 +59,7 @@ const AlbumPage = () => {
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       ></iframe>
 
-      <p className="details text-sand text-sm leading-7">
+      <p className="history text-sand text-sm leading-7">
         {album.band_history}
       </p>
     </div>

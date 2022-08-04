@@ -91,3 +91,9 @@ li {
   font-family: "Abril Fatface", cursive;
   opacity: 0.85;
 }
+
+.history {
+  width: 80%;
+  font-family: "Overpass Mono", monospace;
+  font-weight: 100;
+}
