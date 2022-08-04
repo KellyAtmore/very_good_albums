@@ -73,3 +73,15 @@ li {
   width: auto;
   margin-left: -150px;
 }
+
+.img_2 {
+  height: 500px;
+  width: auto;
+}
+
+.quote {
+  font-size: 50px;
+  z-index: 2;
+  font-family: "Abril Fatface", cursive;
+  opacity: 0.75;
+}

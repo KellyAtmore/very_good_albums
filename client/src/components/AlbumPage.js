@@ -42,6 +42,11 @@ const AlbumPage = () => {
         </p>
       </div>
 
+      <div className="flex">
+        <p className="quote text-rust">{album.song_quote}</p>
+        <img className="img_2 pt-24" src={album.image_2} />
+      </div>
+
       <iframe
         className="video"
         src={`https://www.youtube.com/embed/${album.video_url}`}
