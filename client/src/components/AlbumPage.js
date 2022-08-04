@@ -42,9 +42,9 @@ const AlbumPage = () => {
         </p>
       </div>
 
-      <div className="flex">
-        <p className="quote text-rust">{album.song_quote}</p>
-        <img className="img_2 pt-24" src={album.image_2} />
+      <div className="flex-row-reverse pt-24 pb-24">
+        <p className="quote text-rust">" {album.song_quote} "</p>
+        <img className="img_2" src={album.image_2} />
       </div>
 
       <iframe
@@ -58,7 +58,10 @@ const AlbumPage = () => {
         src={`https://open.spotify.com/embed/album/${album.playlist_url}utm_source=generator`}
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
       ></iframe>
-      {album.band_history}
+
+      <p className="details text-sand text-sm leading-7">
+        {album.band_history}
+      </p>
     </div>
   );
 };

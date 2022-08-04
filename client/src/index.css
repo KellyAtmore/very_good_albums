@@ -76,12 +76,18 @@ li {
 
 .img_2 {
   height: 500px;
+  position: relative;
   width: auto;
+  margin-left: 40%;
+  margin-top: 150px;
 }
 
 .quote {
-  font-size: 50px;
+  font-size: 55px;
+  line-height: 1.2;
+  width: 60%;
   z-index: 2;
+  position: absolute;
   font-family: "Abril Fatface", cursive;
-  opacity: 0.75;
+  opacity: 0.85;
 }
