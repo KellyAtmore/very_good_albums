@@ -25,12 +25,14 @@ const AlbumsList = () => {
 
   return (
     <>
-      <div class="Albums_List">
+      <div className="Albums_List">
         <Header />
         <h1 className="text-6xl text-sand pt-20 pb-10">The Albums</h1>
-        {albums.map((album) => {
-          return <ListItem albums={album}></ListItem>;
-        })}
+        <div className="flex flex-wrap">
+          {albums.map((album) => {
+            return <ListItem albums={album}></ListItem>;
+          })}
+        </div>
       </div>
     </>
   );

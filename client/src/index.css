@@ -37,6 +37,7 @@ li {
 
 .album_list_details {
   font-family: "Overpass Mono", monospace;
+  font-size: small;
 }
 
 .album_title {
