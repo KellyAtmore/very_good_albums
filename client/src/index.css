@@ -50,8 +50,9 @@ li {
 }
 
 .video {
-  width: 560px;
-  height: 315px;
+  width: 640px;
+  height: 360px;
+  margin: 0 auto;
 }
 .playlist {
   width: 30%;
@@ -94,7 +95,7 @@ li {
 }
 
 .history {
-  width: 80%;
+  width: 65%;
   font-family: "Overpass Mono", monospace;
   font-weight: 100;
 }

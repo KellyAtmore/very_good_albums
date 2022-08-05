@@ -48,20 +48,21 @@ const AlbumPage = () => {
       </div>
 
       <iframe
-        className="video"
+        className="video pb-12"
         src={`https://www.youtube.com/embed/${album.video_url}`}
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       ></iframe>
-      <iframe
-        className="playlist"
-        src={`https://open.spotify.com/embed/album/${album.playlist_url}utm_source=generator`}
-        allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-      ></iframe>
-
-      <p className="history text-sand text-sm leading-7">
-        {album.band_history}
-      </p>
+      <div className="flex">
+        <iframe
+          className="playlist"
+          src={`https://open.spotify.com/embed/album/${album.playlist_url}utm_source=generator`}
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        ></iframe>
+        <p className="history text-sand text-sm leading-7 pb-12 pl-24">
+          {album.band_history}
+        </p>
+      </div>
     </div>
   );
 };
