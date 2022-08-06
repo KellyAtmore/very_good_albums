@@ -2,9 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* font-family: 'Abril Fatface', cursive;
-font-family: 'Merriweather', serif;
-font-family: 'Overpass Mono', monospace; */
 .App,
 .Albums_List,
 .Album_Page {
@@ -17,6 +14,7 @@ nav {
   font-weight: 300;
   font-size: 0.75rem;
 }
+
 h1 {
   font-family: "Abril Fatface", cursive;
 }
@@ -46,7 +44,7 @@ li {
 }
 
 .album_details {
-  font-family: "Overpass Mono", monospace;
+  font-family: "Merriweather", serif;
 }
 
 .video {
