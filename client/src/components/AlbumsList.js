@@ -28,7 +28,7 @@ const AlbumsList = () => {
       <div className="Albums_List">
         <Header />
         <h1 className="text-6xl text-sand pt-20 pb-10">The Albums</h1>
-        <div className="flex flex-wrap">
+        <div className="flex flex-wrap list">
           {albums.map((album) => {
             return <ListItem albums={album}></ListItem>;
           })}
