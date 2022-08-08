@@ -98,11 +98,10 @@ li {
   font-weight: 100;
 }
 
-.list:nth-child(2n) {
+.list:nth-child(even) {
   background-color: #ef5d41;
-  border-radius: 20px;
 }
 
-.list:nth-child(3n) {
-  background-color: #8fa5bc;
+.list:nth-child(odd) {
+  background-color: #edaf55;
 }
