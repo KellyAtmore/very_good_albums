@@ -48,7 +48,7 @@ const AlbumPage = () => {
       </div>
 
       <iframe
-        className="video pb-12"
+        className="video pb-24"
         src={`https://www.youtube.com/embed/${album.video_url}`}
         title="YouTube video player"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
