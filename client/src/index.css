@@ -102,6 +102,13 @@ li {
   background-color: #ef5d41;
 }
 
+.list:nth-child(even):hover {
+  background-color: #dc5c44;
+}
+
 .list:nth-child(odd) {
   background-color: #edaf55;
+}
+.list:nth-child(odd):hover {
+  background-color: #f6be6b;
 }

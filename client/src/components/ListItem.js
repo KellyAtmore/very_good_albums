@@ -10,16 +10,18 @@ const ListItem = (props) => {
             className="w-[90px] h-[90px] rounded-lg mb-4"
             src={props.albums.album_cover}
           />
-          <p className="album_list_details text-sand">
+          <p className="album_list_details text-charcoal">
             {props.albums.album_name}
           </p>
-          <p className="album_list_details text-sand">
+          <p className="album_list_details text-charcoal">
             {props.albums.artist_name}
           </p>
-          <p className="album_list_details text-sand">
+          <p className="album_list_details text-charcoal">
             {props.albums.release_year}
           </p>
-          <p className="album_list_details text-sand">{props.albums.genre}</p>
+          <p className="album_list_details text-charcoal">
+            {props.albums.genre}
+          </p>
         </Link>
       </div>
     </>
