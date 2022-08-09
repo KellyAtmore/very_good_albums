@@ -15,7 +15,7 @@ root.render(
       <ScrollToTop />
       <Routes>
         <Route path="/" element={<App />} />
-        <Route path="albums" element={<AlbumsList />} />
+        <Route path="/albums" element={<AlbumsList />} />
         <Route path="/albums/:id" element={<AlbumPage />} />
 
         {/* <Route index element={<Home />} /> */}

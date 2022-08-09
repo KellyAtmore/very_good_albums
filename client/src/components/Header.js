@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -14,7 +14,7 @@ const Header = () => {
         <div>
           <ul className="text-sand tracking-wider text-right ">
             <li>
-              <Link to="albums">The Albums</Link>
+              <Link to="/albums">The Albums</Link>
             </li>
             <li>About The Project</li>
           </ul>
