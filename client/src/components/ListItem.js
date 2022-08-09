@@ -13,7 +13,7 @@ const ListItem = (props) => {
           <p className="album_list_details text-charcoal">
             {props.albums.album_name}
           </p>
-          <p className="album_list_details text-charcoal">
+          <p className="album_list_details text-charcoal ">
             {props.albums.artist_name}
           </p>
           <p className="album_list_details text-charcoal">
