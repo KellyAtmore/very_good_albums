@@ -108,7 +108,7 @@ li {
 }
 
 .list:nth-child(odd) {
-  background-color: #edaf55;
+  background-color: #eee1c3;
 }
 .list:nth-child(odd):hover {
   background-color: #f6be6b;
