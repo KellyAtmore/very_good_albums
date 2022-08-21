@@ -383,3 +383,33 @@ Dating back to his time as a student, Eno has also worked in other media, includ
     
     );
 
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('I Never Loved a Man the Way I love You', 'Aretha Franklin', 1967, 'Soul', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FAretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpeg?alt=media&token=cdd0189e-c0de-41b7-9b02-8bc5d17d2dd1', '''R-E-S-P-E-C-T. Find out what it means to me!'' Is there a more potent female lyric in pop? Franklin''s Atlantic Records debut unleashed her soulful ferociousness upon an unsuspecting public, and both the singer and her album quickly became iconic symbols of black American pride.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2F800px-Aretha_Franklin_1968.jpeg?alt=media&token=b115f73e-f6cf-4506-a39b-1e2d7f566767', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Ft-Aretha-Franklin-Obit.webp?alt=media&token=67b7fbaa-9774-4437-9072-e613037288d4', 'Aretha Franklin was one of the giants of soul music, and indeed of American pop as a whole. More than any other performer, she epitomized soul at its most gospel-charged. Her astonishing run of late-''60s hits with Atlantic Records -- "Respect," "I Never Loved a Man," "Chain of Fools," "Baby I Love You," "I Say a Little Prayer," "Think," "The House That Jack Built," and many others -- earned her the title Queen of Soul. Franklin never rested on her laurels. Following the early-''70s LPs Spirit in the Dark and Young, Gifted and Black, she scored more hits on the R&B charts than pop, adeptly following the progression of soul in the ''70s and ''80s thanks to her collaborations with Curtis Mayfield (1976''s Sparkle) and Luther Vandross (1982''s Jump to It). Franklin made a triumphant return to pop with 1985''s Who''s Zoomin'' Who? and its Top Ten single "Freeway of Love," which was followed in 1987 by the George Michael duet "I Knew You Were Waiting (For Me)," which became her first number one hit on the Billboard charts since "Respect" in 1967. Franklin spent the next three decades performing and recording regularly, maintaining her status as the Queen of Soul until her death in 2018.', '5WndWfzGwCkHzAbQXVkg2V?utm_source=generator', 's3Itb17PXvw', 'I''m about to give you all of my money
+And all I''m askin'' in return, honey
+Is to give me my propers when you get home', 'Aretha Louise Franklin was an American singer, songwriter and pianist. Referred to as the "Queen of Soul", she has twice been placed ninth in Rolling Stone''s "100 Greatest Artists of All Time". With global sales of over 75 million records, Franklin is one of the world''s best-selling music artists.
+
+As a child, Franklin was noticed for her gospel singing at New Bethel Baptist Church in Detroit, Michigan, where her father C. L. Franklin was a minister. At the age of 18, she was signed as a recording artist for Columbia Records. While her career did not immediately flourish, Franklin found acclaim and commercial success once she signed with Atlantic Records in 1966. Hit songs such as "I Never Loved a Man (The Way I Love You)", "Respect", "(You Make Me Feel Like) A Natural Woman", "Chain of Fools", "Think", and "I Say a Little Prayer", propelled Franklin past her musical peers.
+
+Franklin continued to record acclaimed albums such as I Never Loved a Man the Way I Love You (1967), Lady Soul (1968), Spirit in the Dark (1970), Young, Gifted and Black (1972), Amazing Grace (1972), and Sparkle (1976), before experiencing problems with the record company. Franklin left Atlantic in 1979 and signed with Arista Records. The singer appeared in the 1980 film The Blues Brothers before releasing the successful albums Jump to It (1982), Who''s Zoomin'' Who? (1985) and Aretha (1986) on the Arista label. In 1998, Franklin returned to the Top 40 with the Lauryn Hill-produced song "A Rose Is Still a Rose"; later, she released an album with the same name.
+
+Franklin recorded 112 charted singles on the US Billboard charts, including 73 Hot 100 entries, 17 top-ten pop singles, 100 R&B entries and 20 number-one R&B singles. Besides the foregoing, the singer''s well-known hits also include "Ain''t No Way", "Call Me", "Don''t'' Play That Song (You Lied)", "Spanish Harlem", "Rock Steady", "Day Dreaming", "Until You Come Back to Me (That''s What I''m Gonna Do)", "Something He Can Feel", "Jump to It", "Freeway of Love", "Who''s Zoomin'' Who" and "I Knew You Were Waiting (For Me)" (a duet with George Michael). Franklin won 18 Grammy Awards,[4] including the first eight awards given for Best Female R&B Vocal Performance (1968–1975), a Grammy Awards Living Legend honor and Lifetime Achievement Award.
+
+Franklin received numerous honors throughout her career. She was awarded the National Medal of Arts and the Presidential Medal of Freedom. In 1987, she became the first female artist to be inducted into the Rock and Roll Hall of Fame. She also was inducted into the UK Music Hall of Fame in 2005 and into the Gospel Music Hall of Fame in 2012. In 2010, Rolling Stone ranked Franklin number one on its list of the "100 Greatest Singers of All Time". In 2019, the Pulitzer Prize jury awarded the singer a posthumous special citation "for her indelible contribution to American music and culture for more than five decades". In 2020, Franklin was inducted into the National Women''s Hall of Fame.'
+    
+    );
+
+
+
