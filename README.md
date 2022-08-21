@@ -6,4 +6,4 @@ Very Good ALbums is a simple site for music lovers to learn more about these tre
 
 Built using React, Tailwind, Firebase, Postgres, Node and Express.
 
-!['Home View'](Screen%20Shot%202022-08-20%20at%2018.15.33.png)
+!['Home View'](client/docs/Screen%20Shot%202022-08-20%20at%2018.15.33.png)
