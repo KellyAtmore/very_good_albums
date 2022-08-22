@@ -411,5 +411,29 @@ Franklin received numerous honors throughout her career. She was awarded the Nat
     
     );
 
+     INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('Raw power', 'The Stooges', 1973, 'Punk', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FStoogesRawPower.jpeg?alt=media&token=d42add1e-0992-4b5f-9ff2-f83877d023b4', 'Produced by David Bowie, who also helped re-form the band, Raw Power was the Stooges''s late swansong, and their most influential album. The Detroit group were already legendary for incendiary live shows and first two albums, but Raw Power, though selling as poorly as its predecessors, was subsequently cited as a prime influence by virtually every group in the British punk scene.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fstooges1.jpeg?alt=media&token=83bb8fda-6a29-4fd3-9240-198ee8c67c6e', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fstooges2.jpeg?alt=media&token=47041e58-de58-4b7e-bea3-1dc52311b5de', 'During the psychedelic haze of the late ''60s, the grimy, noisy, and relentlessly bleak rock & roll of the Stooges was conspicuously out of place. Like the Velvet Underground, the Stooges revealed the underside of sex, drugs, and rock & roll, showing all the grime beneath the myth. The Stooges, however, weren''t nearly as cerebral as the Velvets. Taking their cue from the over-amplified pounding of British blues, the primal raunch of American garage rock, and the psychedelic rock (as well as the audience-baiting) of the Doors, the Stooges were raw, immediate, and vulgar. Iggy Pop became notorious for performing smeared in blood or peanut butter and diving into the audience. Ron and Scott Asheton formed a ridiculously primitive rhythm section, pounding out chords with no finesse; in essence, the Stooges were the first rock & roll band completely stripped of the swinging beat that epitomized R&B and early rock & roll. During the late ''60s and early ''70s, the group was an underground sensation, yet the band was too weird, and too dangerous, to break into the mainstream. Following three albums, the Stooges disbanded, but the group''s legacy grew over the next two decades as legions of underground bands used their sludgy grind as a foundation for a variety of indie rock styles, and as Iggy Pop became a pop culture icon.', '6vHqopioDuXtXTDoJhQZls?utm_source=generator', 'dbn0DaJHucg', 'Honey, gotta help me please
+Somebody gotta save my soul
+Baby, detonate for me, aw!', 'The Stooges, originally billed as the Psychedelic Stooges, also known as Iggy and the Stooges, were an American rock band formed in Ann Arbor, Michigan in 1967 by singer Iggy Pop, guitarist Ron Asheton, drummer Scott Asheton, and bassist Dave Alexander. Initially playing a raw, primitive style of rock and roll, the band sold few records in their original incarnation and gained a reputation for their confrontational performances, which often involved acts of self-mutilation by Iggy Pop.
+
+After releasing two albums—The Stooges (1969) and Fun House (1970)—the group disbanded briefly, and reformed with a slightly altered lineup (with Ron Asheton replacing Dave Alexander on bass and James Williamson taking up guitar) to release a third album, Raw Power (1973), before breaking up again in 1974. The band reunited in 2003 with Ron Asheton moving back to guitar and Mike Watt on bass, and the addition of saxophonist Steve Mackay, who had played briefly with the 1973-1974 lineup. Ron Asheton died in 2009, replaced by James Williamson, and the band continued to play shows until 2013, also releasing their last album, Ready to Die. The Stooges formally announced their breakup in 2016 due to the deaths of Scott Asheton and saxophonist Steve Mackay.
+
+The Stooges are widely regarded as a seminal proto-punk act. The band was inducted into the Rock and Roll Hall of Fame in 2010. In 2004, Rolling Stone ranked them 78th on their list of the 100 greatest artists of all time. In 2007 they were awarded the Mojo Lifetime Achievement award at the Mojo Awards.'
+    
+    );
+
 
 
