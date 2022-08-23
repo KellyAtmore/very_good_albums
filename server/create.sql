@@ -487,3 +487,30 @@ She received a Legends Award at the World Music Awards in 2006, and the Voice of
     
     );
 
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('Sweetheart of the Rodeo', 'The Byrds', 1968, 'Country', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FTheByrdsSweetheartoftheRodeo.jpeg?alt=media&token=768b48d6-e67c-4039-84dc-5a75c64ccdf0', 'At one inspired stroke, Sweetheart vanquished the cultural divide between acid-munching, peace-preaching long hairs and beer-swilling, flag-waving good old boys by creating the enduring hybrid of country-rock. Allying rippling guitars and silky vocal harmonies with a mix of country tradition (''I Am a Pilgrim'') and Gram Parsons originals, the record irrevocably altered the perspective of two previously averse streams of Americana. The group even cut their hair to play the Grand Ole Opry.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fbyrds1.jpeg?alt=media&token=49794e2f-8f4e-4c32-8232-15befbc70264', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fbyrds2.jpeg?alt=media&token=bbe710ec-96dc-4ad5-94df-42a68ead0115', 'Although they only attained the huge success of the Beatles, Rolling Stones, and the Beach Boys for a short time in the mid-''60s, time has judged the Byrds to be nearly as influential as those groups in the long run. They were not solely responsible for devising folk-rock, but they were certainly more responsible than any other single act (Dylan included) for melding the innovations and energy of the British Invasion with the best lyrical and musical elements of contemporary folk music. The jangling, 12-string guitar sound of leader Roger McGuinn''s Rickenbacker was permanently absorbed into the vocabulary of rock. They also played a vital role in pioneering psychedelic rock and country-rock, the unifying element being their angelic harmonies and restless eclecticism.', '45cmZM2fiyVTDBePMy5lFH?utm_source=generator', 'Q21BF38W3Gs', 'Buy me some rings and a gun that sings
+A flute that toots and a bee that stings
+A sky that cries and a bird that flies
+A fish that walks and a dog that talks', 'The Byrds were an American rock band formed in Los Angeles, California, in 1964. The band underwent multiple lineup changes throughout its existence, with frontman Roger McGuinn (known as Jim McGuinn until mid-1967) remaining the sole consistent member. Although their time as one of the most popular groups in the world only lasted for a short period in the mid-1960s, the Byrds are today considered by critics to be among the most influential rock acts of their era. Their signature blend of clear harmony singing and McGuinn''s jangly twelve-string Rickenbacker guitar was "absorbed into the vocabulary of rock" and has continued to be influential.
+
+Initially, the Byrds pioneered the musical genre of folk rock as a popular format in 1965, by melding the influence of the Beatles and other British Invasion bands with contemporary and traditional folk music on their first and second albums, and the hit singles "Mr. Tambourine Man" and "Turn! Turn! Turn!". As the 1960s progressed, the band was influential in originating psychedelic rock and raga rock, with their song "Eight Miles High" and the albums Fifth Dimension (1966), Younger Than Yesterday (1967) and The Notorious Byrd Brothers (1968). The band also played a pioneering role in the development of country rock, with the 1968 album Sweetheart of the Rodeo representing their fullest immersion into the genre.
+
+The original five-piece lineup of the band consisted of McGuinn (lead guitar, vocals), Gene Clark (tambourine, vocals), David Crosby (rhythm guitar, vocals), Chris Hillman (bass guitar, vocals), and Michael Clarke (drums). This version of the band was relatively short-lived and by early 1966 Clark had left due to problems associated with anxiety and his increasing isolation within the group. The Byrds continued as a quartet until late 1967, when Crosby and Clarke also departed. McGuinn and Hillman decided to recruit new members, including country rock pioneer Gram Parsons, but by late 1968, Hillman and Parsons had also exited the band.[1] McGuinn elected to rebuild the band''s membership; between 1968 and 1973, he helmed a new incarnation of the Byrds that featured guitarist Clarence White, among others. McGuinn disbanded the then-current lineup in early 1973 to make way for a reunion of the original quintet. The Byrds'' final album was released in March 1973, with the reunited group disbanding later that year.
+
+Several former members of the Byrds went on to successful careers of their own, either as solo artists or as members of such groups as Crosby, Stills, Nash & Young, the Flying Burrito Brothers, McGuinn, Clark & Hillman, and the Desert Rose Band. In 1991, the Byrds were inducted into the Rock and Roll Hall of Fame, an occasion that saw the five original members performing together for the last time. Gene Clark died of a heart attack later that year, while Michael Clarke died of liver failure in 1993. McGuinn, Crosby, and Hillman remain active.'
+    
+    );
+
