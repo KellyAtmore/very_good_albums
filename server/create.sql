@@ -435,5 +435,29 @@ The Stooges are widely regarded as a seminal proto-punk act. The band was induct
     
     );
 
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('London Calling', 'The Clash', 1979, 'Punk', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FTheClashLondonCallingalbumcover.jpeg?alt=media&token=17d920bc-a7a2-4669-a266-9230cacfe37d', 'The best record to come out of punk, or punk''s death knell? On this double album, The Clash fused their rockabilly roots with their love of reggae, moving away from the choppy snarls of the scene that birthed them. This was the album that legitimised punk - hitherto a stroppy fad - into the rock canon. Its iconic cover, and songs about the Spanish Civil War brought left-wing politics firmly into musical fashion.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fclash1.jpeg?alt=media&token=50ba149f-b7a9-4e82-b4cf-c6afa47a0702', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fclash2.webp?alt=media&token=e15b4feb-020d-4913-804e-b03db1002fb0', 'The Sex Pistols may have been the first British punk rock band, but the Clash were the definitive British punk rockers. Where  the Pistols were nihilistic, the Clash were fiery and idealistic, charged with righteousness and a leftist political ideology. From the outset, the band was more musically adventurous, expanding its hard rock & roll with reggae, dub, and rockabilly among other roots musics. Furthermore, they were blessed with two exceptional songwriters in Joe Strummer and Mick Jones, each with a distinctive voice and style. The Clash copped heavily from classic outlaw imagery, positioning themselves as rebels with a cause. As a result, they won a passionately devoted following on both sides of the Atlantic. While they became rock & roll heroes in the U.K., second only to the Jam in terms of popularity, it took the Clash several years to break into the American market, and when they finally did in 1982, they imploded several months later. Though the Clash never became the superstars they always threatened to become, they restored passion and protest to rock & roll. For a while, they really did seem like "the only band that mattered."', '6FCzvataOZh68j8OKzOt9a?utm_source=generator', 'LQ82BX0hGBM', 'The ice age is coming, the sun''s zooming in
+Meltdown expected, the wheat is growing thin
+Engines stop running, but I have no fear
+''Cause London is drowning
+I live by the river', 'The Clash were an English rock band formed in London in 1976 who were key players in the original wave of British punk rock. Billed as "The Only Band That Matters", they also contributed to the post-punk and new wave movements that emerged in the wake of punk and employed elements of a variety of genres including reggae, dub, funk, ska, and rockabilly. For most of their recording career, the Clash consisted of lead vocalist and rhythm guitarist Joe Strummer, lead guitarist and vocalist Mick Jones, bassist Paul Simonon, and drummer Nicky "Topper" Headon.
 
+Headon left the group in 1982 due to internal friction surrounding his increasing heroin addiction. Further internal friction led to Jones'' departure the following year. The group continued with new members, but finally disbanded in early 1986. The Clash achieved critical and commercial success in the United Kingdom with the release of their self-titled debut album, The Clash (1977) and their second album, Give ''Em Enough Rope (1978). Their experimental third album, London Calling, released in the UK in December 1979, earned them popularity in the United States when it was released there the following month. A decade later, Rolling Stone named it the best album of the 1980s. Following continued musical experimentation on their fourth album, Sandinista! (1980), the band reached new heights of success with the release of Combat Rock (1982), which spawned the US top 10 hit "Rock the Casbah", helping the album to achieve a 2× Platinum certification there. A final album, Cut the Crap, was released in 1985 with a new lineup, and a few weeks later, the band broke up.
+
+In January 2003, shortly after the death of Joe Strummer, the band—including original drummer Terry Chimes—were inducted into the Rock and Roll Hall of Fame. In 2004, Rolling Stone ranked the Clash number 28 on its list of the "100 Greatest Artists of All Time".'
+    
+    );
 
