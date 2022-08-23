@@ -461,3 +461,29 @@ In January 2003, shortly after the death of Joe Strummer, the band—including o
     
     );
 
+    INSERT INTO album (
+  album_name,
+  artist_name,
+  release_year,
+  genre,
+  album_cover,
+  album_about,
+  image_1,
+  image_2,
+  band_about,
+  playlist_url,
+  video_url,
+  song_quote,
+  band_history)
+  VALUES ('What''s the 411?', 'Mary J Blige', 1992, 'Hip hop', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/Album%20Covers%2FWhat''sThe411_.jpeg?alt=media&token=3eca1a4d-04a5-4888-94d4-96dd1e2c14e0', 'When the Bronx-born ''Queen of Hip Hop Soul'' catapulted her debut on to a legion of approving listeners, she unwittingly defined a new wave of R&B. Before Mary, R&B''s roots were still firmly planted in soul and jazz (ie Aretha Franklin and Chaka Khan). The emergence of hip hop and this album from Blige and her mentor and producer Sean ''Puffy'' Combs (aka P Diddy) gave birth to a new gritty sound, informed by the singer''s harrowing past.', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fmary1.webp?alt=media&token=f0031a90-0824-4014-88f1-5c587e36e5c2', 'https://firebasestorage.googleapis.com/v0/b/very-good-albums.appspot.com/o/band_images%2Fmary2.jpeg?alt=media&token=96656820-4345-45ef-ab51-008924d23d01', 'When Mary J. Blige''s debut album, What''s the 411?, hit the streets in July 1992, critics and fans were floored by its powerful combination of modern soul and edgy hip-hop production that glanced off of the pain and grit of the singer''s New York upbringing. Blige instantly became a distinct force in R&B, and throughout a three-decade career has put the full power of her voice behind her music, exorcizing her demons and consequently softening her style, yet never ceding her rank as "the Queen of Hip-Hop Soul." Each one of the singer''s proper studio albums has debuted within the Top Ten of the Billboard 200, highlighted by a streak of five multi-platinum titles lasting through No More Drama (2001), and Best R&B Album Grammy awards for The Breakthrough (2005) and Growing Pains (2007). As she continued to add to her rich catalog in the 2010s, a new generation of artists cited her as an influence and sought her out for collaborations. These included Kendrick Lamar''s "Now or Never" and Disclosure''s "F for You," just to name the Grammy-nominated recordings. Blige''s co-headlining performance at the Super Bowl LVI half-time show coincided with the release of her first album of the 2020s, Good Morning Gorgeous (2022).', '5Q3xLiKnY4ShDuQda7qfg2?utm_source=generator', '90c9pEtZquw', 'Real love, I''m searching for a real love
+Someone to set my heart free
+Real love, I''m searching for a real love', 'Mary Jane Blige is an American singer, songwriter, and actress. Often referred to as the "Queen of Hip-Hop Soul", Blige has won nine Grammy Awards, four American Music Awards, and ten Billboard Music Awards. She has been nominated for three Golden Globe Awards and two Academy Awards, including one for her supporting role in the film Mudbound (2017) and another for its original song "Mighty River", becoming the first person nominated for acting and songwriting in the same year.
+
+Her career began in 1988 when she was signed to Uptown Records by its founder Andre Harrell. Blige then began background vocal work for other artists on the label such as Father MC and Jeff Redd. In 1992, Blige released her debut album, What''s the 411?, which is credited for introducing the mix of R&B and hip hop into mainstream pop culture. Its 1993 remix album became the first album by a singer to have a rapper on every song, popularizing rap as a featuring act. Both What''s the 411? and her 1994 album My Life are featured on the Rolling Stone''s 500 Greatest Albums of All Time list, and the latter on Time magazine''s All-Time 100 Albums. Throughout her career, Blige went on to release 14 studio albums, all of which have reached the top ten on the Billboard 200 chart, including four number-one albums. Her biggest hits include "Real Love", "Not Gon'' Cry", "Be Without You" and the Billboard Hot 100 number-one single "Family Affair".
+
+Blige has also made a successful transition to both the television and movie screens, with supporting roles in films such as Prison Song (2001), Rock of Ages (2012), Betty and Coretta (2013), Black Nativity (2013), her Oscar and Golden Globe-nominated breakthrough performance as Florence Jackson in Mudbound (2017), Trolls World Tour (2020), Body Cam (2020), The Violent Heart (2021) and co-starring as jazz singer Dinah Washington in the Aretha Franklin biopic Respect (2021). In 2019, Blige starred as Cha-Cha on the first season of the Netflix television series The Umbrella Academy. She currently stars as Monet Tejada in the spin-off of the highly rated TV drama Power in Power Book II: Ghost.
+
+She received a Legends Award at the World Music Awards in 2006, and the Voice of Music Award from ASCAP in 2007. Billboard ranked Blige as the most successful female R&B/Hip-Hop artist of the past 25 years. In 2017, Billboard magazine named her 2006 song "Be Without You" as the most successful R&B/Hip-Hop song of all time, as it spent an unparalleled 15 weeks atop the Hot R&B/Hip-Hop Songs chart and over 75 weeks on the chart. In 2011, VH1 ranked Blige as the 80th greatest artist of all time. In 2012, VH1 ranked Blige at number 9 in "The 100 Greatest Women in Music" list. In February 2021, Blige became a first-time nominee for the 2021 class of the Rock and Roll Hall of Fame. In 2022 Blige was awarded with the Icon Award at the Billboard Music Awards.'
+    
+    );
+
