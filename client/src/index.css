@@ -60,6 +60,7 @@ li {
 
 .details {
   font-family: "Overpass Mono", monospace;
+  opacity: 0.75;
   font-weight: 100;
   width: 50%;
 }
@@ -96,6 +97,7 @@ li {
 .history {
   width: 65%;
   font-family: "Overpass Mono", monospace;
+  opacity: 0.75;
   font-weight: 100;
 }
 
