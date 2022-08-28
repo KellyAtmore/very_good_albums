@@ -1,8 +1,11 @@
+import Header from "./Header";
+
 const About = () => {
   return (
     <>
-      <div>
-        <p></p>
+      <div className="About">
+        <Header />
+        <p className="text-sand">about page</p>
       </div>
     </>
   );

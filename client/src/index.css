@@ -4,7 +4,8 @@
 
 .App,
 .Albums_List,
-.Album_Page {
+.Album_Page,
+.About {
   height: 100vh;
   margin: 50px 150px 100px;
 }

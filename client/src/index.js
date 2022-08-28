@@ -6,6 +6,7 @@ import "./index.css";
 import App from "./App";
 import AlbumsList from "./components/AlbumsList";
 import AlbumPage from "./components/AlbumPage";
+import About from "./components/About";
 import ScrollToTop from "./components/ScrollToTop";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -17,6 +18,7 @@ root.render(
         <Route path="/" element={<App />} />
         <Route path="/albums" element={<AlbumsList />} />
         <Route path="/albums/:id" element={<AlbumPage />} />
+        <Route path="/about" element={<About />} />
 
         {/* <Route index element={<Home />} /> */}
       </Routes>
