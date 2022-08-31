@@ -1,4 +1,5 @@
 import Header from "./Header";
+import Footer from "./Footer";
 
 const About = () => {
   return (
@@ -7,6 +8,7 @@ const About = () => {
         <Header />
         <p className="text-sand">about page</p>
       </div>
+      <Footer />
     </>
   );
 };

@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./Header";
 import ListItem from "./ListItem";
+import Footer from "./Footer";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
@@ -33,6 +34,7 @@ const AlbumsList = () => {
             return <ListItem albums={album}></ListItem>;
           })}
         </div>
+        <Footer />
       </div>
     </>
   );
