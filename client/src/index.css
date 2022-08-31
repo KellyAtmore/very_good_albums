@@ -109,3 +109,9 @@ li {
 .list:nth-child(odd) {
   background-color: #373737;
 }
+
+.Footer {
+  font-family: "Merriweather", serif;
+  font-weight: 100;
+  font-size: small;
+}
