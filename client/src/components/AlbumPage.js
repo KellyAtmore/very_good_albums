@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import axios from "axios";
 import Header from "./Header";
+import Footer from "./Footer";
 
 const AlbumPage = () => {
   const { id } = useParams();
@@ -63,6 +64,7 @@ const AlbumPage = () => {
           {album.band_history}
         </p>
       </div>
+      <Footer />
     </div>
   );
 };
