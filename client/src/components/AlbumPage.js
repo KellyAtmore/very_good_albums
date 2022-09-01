@@ -9,7 +9,7 @@ const AlbumPage = () => {
   const [album, setAlbum] = useState({});
   useEffect(() => {
     axios
-      .get(`http://localhost:3005/albums/${id}`)
+      .get(`/albums/${id}`)
       .then((res) => {
         const album = res.data.rows[0];
         setAlbum(album);

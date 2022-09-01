@@ -13,10 +13,9 @@ const AlbumsList = () => {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:3005/`)
+      .get("/albums")
       .then((res) => {
-        const data = res.data.rows;
-        //const albumid = selected.album_id;
+        const data = res.data;
         setAlbums(data);
       })
       .catch((error) => {
