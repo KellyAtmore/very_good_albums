@@ -7,7 +7,9 @@ Very Good Albums is a simple site for music lovers to learn more about these tre
 [Live Site](https://very-good-albums.herokuapp.com/) 🥳
 
 ![](https://github.com/KellyAtmore/very_good_albums/blob/main/client/docs/home.png)
+
 ![](https://github.com/KellyAtmore/very_good_albums/blob/main/client/docs/albums.png)
+
 ![](https://github.com/KellyAtmore/very_good_albums/blob/main/client/docs/albumPage.png)
 
 ## ⚙ Tech Stack
